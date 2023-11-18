@@ -27,11 +27,11 @@ Para iniciar la aplicación, sigue estos pasos:
 Para crear un nuevo viaje, sigue estos pasos:
     1.  Una vez que hayas iniciado la aplicación, verás un panel con tus viajes actuales y pasados. En la parte superior, encontrarás un botón llamado “Crear nuevo viaje”. Pulsa sobre él.
     2.  Se abrirá una pantalla con un formulario para introducir los datos de tu viaje. Los datos que debes rellenar son:  
-    • Destino: el lugar al que vas a viajar. Puedes escribir letras y números.
-    • Fecha de ida: el día en que empiezas tu viaje. Debe tener el formato DD/MM/YYYY. Puedes elegir una fecha rápidamente pulsando sobre el icono del calendario que aparece al lado del campo.
-    • Fecha de vuelta: el día en que terminas tu viaje. Debe tener el mismo formato que la fecha de ida. Puedes usar el mismo método para seleccionar una fecha.
-    • Número de personas: el número de personas que van a viajar contigo. Puedes usar los botones de + y - para aumentar o disminuir el número.
-    • Precio: el precio que te costará el viaje hasta allí. Debes escribir solo el número, sin el símbolo de €.
+        • Destino: el lugar al que vas a viajar. Puedes escribir letras y números.
+        • Fecha de ida: el día en que empiezas tu viaje. Debe tener el formato DD/MM/YYYY. Puedes elegir una fecha rápidamente pulsando sobre el icono del calendario que aparece al lado del campo.
+        • Fecha de vuelta: el día en que terminas tu viaje. Debe tener el mismo formato que la fecha de ida. Puedes usar el mismo método para seleccionar una fecha.
+        • Número de personas: el número de personas que van a viajar contigo. Puedes usar los botones de + y - para aumentar o disminuir el número.
+        • Precio: el precio que te costará el viaje hasta allí. Debes escribir solo el número, sin el símbolo de €.
     3.  Cuando hayas rellenado todos los datos, pulsa sobre el botón “Guardar viaje”. Se creará tu viaje y se añadirá al panel principal.
     
 ## Cómo gestionar tus viajes

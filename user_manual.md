@@ -13,7 +13,7 @@ Antes de empezar a usar TripTrack, tenga en cuenta las siguientes recomendacione
     • Los datos de la aplicación se guardan de forma local y de forma remota, por lo que es necesario contar con conexión a internet para poder usarla. Si no tiene conexión, algunas funciones pueden no estar disponibles o mostrar errores.
     • Es importante seguir los pasos de este manual, ya que de lo contrario, la aplicación no le permitirá realizar algunas acciones, advirtiéndole del error que ha cometido. Revise bien el formato de los documentos, los datos introducidos en los formularios, etc.
 
-##Cómo iniciar la aplicación
+## Cómo iniciar la aplicación
 
 Para iniciar la aplicación, sigue estos pasos:
     1.  Abre la aplicación en tu dispositivo. Verás una animación de bienvenida y luego la pantalla para iniciar sesión.

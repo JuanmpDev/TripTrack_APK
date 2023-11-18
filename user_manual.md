@@ -59,6 +59,7 @@ En la aplicación, además del panel principal, tienes otras pantallas a las que
     • Perfil: en esta pantalla podrás ver tu información personal y tu progreso en la aplicación. Podrás ver tu nombre, apellidos y correo electrónico, que son los datos que usaste para registrarte. También podrás ver tu nivel y tu experiencia en TripTrack, que son los indicadores que miden tu actividad como viajero. Dependiendo de tu nivel, verás una imagen diferente que representa tu rango. Para consultar qué niveles hay y cuánta experiencia se necesita para alcanzarlos, puedes pulsar sobre el icono que aparece después del campo “EXP”. Se abrirá una tabla con los niveles de viajero y sus requisitos.
     • Viajes Finalizados: Si pulsas sobre esta opción, accederá a una nueva pantalla donde se mostrarán los viajes que tiene finalizados en ese momento. Tiene la posibilidad de eliminarlos del panel si así lo quiere, pero su experiencia por finalizarlo se mantendrá. 
     • Cerrar sesión: si pulsas sobre esta opción, saldrás de la aplicación y tendrás que iniciar sesión de nuevo para volver a entrar. Esta opción solo está disponible en el menú lateral, no en la barra inferior.
+    
 ## Cómo usar las funcionalidades de la aplicación.
 Para usar las funcionalidades de la aplicación, debes escoger un viaje y pulsar dentro de la tarjeta. Al hacerlo, verás una pantalla con la información del viaje en la parte superior y las cuatro funcionalidades en la parte inferior. Estas funcionalidades son:
 
@@ -110,4 +111,4 @@ Para usar las funcionalidades de la aplicación, debes escoger un viaje y pulsar
     • También puede eliminar carpetas o renombrarlas con las opciones “Renombrar” y “Eliminar” que aparecen al realizar una pulsación larga sobre la carpeta seleccionada.
     • Si quiere acceder al contenido de la carpeta, pulse sobre la carpeta que quiera. Se abrirá una pantalla con las fotos que haya guardado en esa carpeta. Podrá ver las fotos de la misma manera que en la pestaña “Galería”, pero de forma más organizada. 
 
-Gracias por leer este manual de usuario sobre TripTrack. Esperamos que le sea de utilidad y que disfrute de su experiencia con nuestra aplicación. Si tiene alguna duda o sugerencia sobre la aplicación, puede contactarnos a través de nuestro correo electrónico: triptrack@support.com o abra una incidencia desde la pestaña “Crear incidencia” del menú laterial. Estaremos encantados de atenderle y resolver sus consultas. Le deseamos un feliz viaje. 
+Gracias por leer este manual de usuario sobre TripTrack. Esperamos que le sea de utilidad y que disfrute de su experiencia con nuestra aplicación.

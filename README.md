@@ -1,5 +1,6 @@
 # TripTrack_APK
 Aplicación orientada para viajeros en la cual se incluyen potentes funcionalidades.
+!triptrack.png
 
 ## Instalación
 

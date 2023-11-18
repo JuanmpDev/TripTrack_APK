@@ -36,7 +36,8 @@ Para crear un nuevo viaje, sigue estos pasos:
     • Precio: el precio que te costará el viaje hasta allí. Debes escribir solo el número, sin el símbolo de €.
       
     3.  Cuando hayas rellenado todos los datos, pulsa sobre el botón “Guardar viaje”. Se creará tu viaje y se añadirá al panel principal.
-Cómo gestionar tus viajes
+    
+## Cómo gestionar tus viajes
 En el panel principal, podrás ver todos tus viajes actuales y pasados en forma de tarjetas. Cada tarjeta te muestra la información básica de tu viaje, como el destino, la fecha, el número de personas y el precio. Además, en la parte inferior derecha de cada tarjeta, encontrarás una serie de iconos que te permiten realizar las siguientes acciones:
 
     • Editar: si pulsas sobre el icono del lápiz, podrás modificar la información de tu viaje. Se abrirá la misma pantalla que cuando creaste el viaje, pero con los datos ya rellenados. Puedes cambiar lo que quieras y pulsar sobre el botón “Guardar viaje” para actualizar los cambios.
@@ -45,15 +46,14 @@ En el panel principal, podrás ver todos tus viajes actuales y pasados en forma 
       
     • Eliminar: si pulsas sobre el icono de la papelera, podrás eliminar tu viaje de forma permanente. Esto hará que desaparezca de la aplicación y no podrás recuperarlo. Te pediremos que confirmes tu acción antes de borrar el viaje.
       
-Cómo acceder a otras pantallas de la aplicación
+## Cómo acceder a otras pantallas de la aplicación
 En la aplicación, además del panel principal, tienes otras pantallas a las que puedes acceder desde el menú lateral o desde la barra inferior. Estas pantallas son:
+
     • Mapamundi: en esta pantalla podrás ver un mapa mundial a escala continental, donde podrás marcar los lugares que has visitado o que quieres visitar. Para ello, puedes realizar las siguientes acciones:
 
         ◦ Una pulsación: si pulsas una vez sobre el mapa, verás un + y un - que te permitirán hacer zoom in o zoom out al mapa. Así podrás ver los detalles de cada zona.
-
         ◦ Doble pulsación: si pulsas dos veces sobre el mapa, agregarás un marcador en el lugar que hayas pulsado. El marcador tendrá el nombre del país o la región que corresponda. Puedes agregar tantos marcadores como quieras.
         ◦ Pulsación prolongada sobre el marcador: si pulsas y mantienes pulsado sobre un marcador, lo quitarás del mapa. Así podrás eliminar los marcadores que no quieras o que hayas puesto por error. 
-
         ◦ Pulsación sobre el marcador: si pulsas una vez sobre un marcador, verás una ventana emergente con información sobre el lugar que has marcado. Podrás ver el nombre, la bandera, la capital, la población y el idioma del país o la región. También 
           podrás ver una foto del lugar y un enlace para buscar más información en Bing.
           
@@ -67,8 +67,6 @@ Para usar las funcionalidades de la aplicación, debes escoger un viaje y pulsar
     1. Importar documentos: esta funcionalidad te permite guardar documentos importantes relacionados con tu viaje, como pdfs de reserva, billetes, mapas, etc. Para ello, debes seguir estos pasos:
        
         ◦ Elige el tipo de documento que quieres importar entre las opciones que aparecen en la parte superior. Puedes elegir entre pdf, imagen, texto o audio.
-
-
         ◦ Pulsa sobre el botón “Seleccionar documento”. Se abrirá el directorio de tu dispositivo y podrás elegir el archivo que quieras importar. Solo se mostrarán los archivos que coincidan con el formato elegido.
         ◦ Una vez que hayas elegido el archivo, se importará en la aplicación y quedará guardado en la parte inferior. Verás el nombre del archivo y dos iconos al lado derecho. Que le permitirán hacer las acciones de editar y eliminar sobre el archivo. Para abrirlo, simplemente toca el archivo y se abrirá con el programa que su dispositivo tenga por defecto. 
         ◦ Si quieres cambiar el nombre del archivo, pulsa sobre el icono del lápiz y escribe el nuevo nombre que quieras. Esto te ayudará a recordar mejor el contenido del documento.
@@ -80,8 +78,7 @@ Para usar las funcionalidades de la aplicación, debes escoger un viaje y pulsar
         ◦ A medida que vayas realizando gastos durante tu viaje, puedes ir añadiéndolos a la aplicación. Para ello, rellena el campo “Importe del gasto” con el número, sin el símbolo de €, y el campo “Concepto del gasto” con una breve descripción del gasto. Pulsa sobre el botón “Añadir gasto” para agregarlo a la lista.
         ◦ Verás que en la parte inferior aparece un listado con todos los gastos que has añadido. Cada gasto te muestra el importe, el concepto y un icono de la cruz. Si quieres eliminar un gasto, pulsa sobre el icono de la cruz. Esto hará que se quite el gasto de la lista y se actualice el presupuesto automáticamente.
         ◦ También verá que en la parte superior se muestra el presupuesto restante que te queda. Si llegas a 0 o te sobrepasas del presupuesto, el contador se reiniciará y deberás establecer un nuevo
-           presupuesto.
-          
+           presupuesto.    
         ◦ Si quiere resetear el presupuesto y empezar de nuevo, pulsa sobre el icono de reset que aparece al lado del número del presupuesto. Esto hará que se borren todos los gastos y se ponga el presupuesto a 0
         ◦ Además, existe una pestaña superior adicional llamada “Facturas y Tickets” destinada para aquellos que viajan por trabajo o que simplemente quieran tenerlo todo más controlado y que necesiten un espacio donde importar solo tickets y comprobantes de los gastos que tienen durante el viaje. Para añadir un gasto, simplemente debes seguir estos pasos:
             ▪ Pulsa sobre el botón “+” que aparece en la parte inferior. Se abrirá una pantalla con dos opciones: hacer la foto con la cámara o buscar una en la galería.

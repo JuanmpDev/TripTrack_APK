@@ -1,7 +1,15 @@
 # TripTrack_APK
-Aplicación orientada para viajeros en la cual se incluyen potentes funcionalidades.
 
 <image src=triptrack.png>
+
+La aplicación de TripTrack le permitirá planificar, organizar y disfrutar de tus viajes de una forma fácil y divertida. Con esta aplicación podrás:
+    • Controlar los gastos de tu viaje.
+    • Apuntar los planes en un calendario.
+    • Guardar fotos e imágenes en galerías.
+    • Importar documentos importantes como pdfs de reserva.
+    • Marcar los viajes que has terminado y ver tu nivel y experiencia.
+
+
 
 ## Instalación
 
@@ -15,4 +23,4 @@ Para instalar la aplicación en tu dispositivo Android, sigue estos pasos:
 
 ¡Eso es todo! Ahora deberías poder abrir y usar la aplicación en tu dispositivo.
 
-Para más información sobre cómo funciona la aplicación, lea el manual de usuario llamado "user_manual.readme". 
+Para más información sobre cómo funciona la aplicación, lea el manual de usuario llamado "user_manual.md". 

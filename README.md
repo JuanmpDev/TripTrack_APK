@@ -23,4 +23,4 @@ Para instalar la aplicación en tu dispositivo Android, sigue estos pasos:
 
 ¡Eso es todo! Ahora deberías poder abrir y usar la aplicación en tu dispositivo.
 
-Para más información sobre cómo funciona la aplicación, lea el manual de usuario llamado "user_manual.md". 
+Para más información sobre su funcionamiento, lea el manual de usuario llamado "user_manual.md". 

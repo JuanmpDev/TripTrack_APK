@@ -42,7 +42,7 @@ En el panel principal, podrás ver todos tus viajes actuales y pasados en forma 
     • Eliminar: si pulsas sobre el icono de la papelera, podrás eliminar tu viaje de forma permanente. Esto hará que desaparezca de la aplicación y no podrás recuperarlo. Te pediremos que confirmes tu acción antes de borrar el viaje.
 
 
-##Cómo acceder a otras pantallas de la aplicación
+## Cómo acceder a otras pantallas de la aplicación
 
 En la aplicación, además del panel principal, tienes otras pantallas a las que puedes acceder desde el menú lateral o desde la barra inferior. Estas pantallas son:
     • Mapamundi: en esta pantalla podrás ver un mapa mundial a escala continental, donde podrás marcar los lugares que has visitado o que quieres visitar. Para ello, puedes realizar las siguientes acciones:
